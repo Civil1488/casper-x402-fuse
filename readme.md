@@ -80,3 +80,8 @@ python check.py
 [ ] Multi-agent management (different limits for different agent sub-routines).
 
 [ ] Front-end dashboard for adjusting limits on the fly without changing config files.
+
+* **[Casper Network Official Docs](https://docs.casper.network/)** — Core documentation for building and deploying on the Casper blockchain.
+* **[Casper Developer Portal](https://developer.casper.network/)** — Guides, tutorials, and SDK materials for Rust and Python integrations.
+* **[Casper Ecosystem Portal](https://casper.network/ecosystem/)** — Overview of active projects, platforms, and dApps built on Casper.
+* **[DoraHacks Casper Hackathon](https://dorahacks.io/)** — The official platform tracking the progress and funding for innovative Casper infrastructure tools.
