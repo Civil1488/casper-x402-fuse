@@ -1,0 +1,7 @@
+{
+  "max_per_call_cspr": 10.0,
+  "daily_budget_cspr": 500.0,
+  "telegram_bot_token": "PASTE_YOUR_TELEGRAM_BOT_TOKEN_HERE",
+  "telegram_chat_id": "PASTE_YOUR_TELEGRAM_CHAT_ID_HERE",
+  "api_secret_token": "CasperFuseSecureToken2026_x402"
+}
